@@ -1,47 +1,58 @@
-body{
+body {
 background-color:#FFCC33;
 }
-header,footer{
+
+header,footer {
 height:100px;
 background-color:#FF6600;
 border:solid 1px;
 }
-form{
+
+form {
 position:absolute;
 top:20px;
 right:100px;
 }
-article{
+
+article {
 margin-left:20%;
 margin-right:20%;
 background-color: #FF9933;
 border:solid 2px;
 height:80%;
 }
-#title{
+
+#title {
 border:solid 1px;
 }
-h1{
+
+h1 {
 text-align:center;
 }
-button{
+
+button {
 margin:5px;
 padding:5px;
 width:150px;
 }
-p{
+
+p {
 padding:20px;
 }
-#buttons{
+
+#buttons {
 border:solid 1px;
 width:200px;
 float:left;
 }
-#tasks{
+
+
+#tasks {
 margin-left:200px;
 border:solid 1px;
 }
-#generate{
+
+#generate {
 border:solid 1px;
 width:200px;
 height:150px;
