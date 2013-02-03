@@ -1,0 +1,48 @@
+body{
+background-color:#FFCC33;
+}
+header,footer{
+height:100px;
+background-color:#FF6600;
+border:solid 1px;
+}
+form{
+position:absolute;
+top:20px;
+right:100px;
+}
+article{
+margin-left:20%;
+margin-right:20%;
+background-color: #FF9933;
+border:solid 2px;
+height:80%;
+}
+#title{
+border:solid 1px;
+}
+h1{
+text-align:center;
+}
+button{
+margin:5px;
+padding:5px;
+width:150px;
+}
+p{
+padding:20px;
+}
+#buttons{
+border:solid 1px;
+width:200px;
+float:left;
+}
+#tasks{
+margin-left:200px;
+border:solid 1px;
+}
+#generate{
+border:solid 1px;
+width:200px;
+height:150px;
+}
